@@ -1,2 +1,3 @@
 .vscode/
 notebooks/.ipynb_checkpoints/
+scripts/__pycache__/
