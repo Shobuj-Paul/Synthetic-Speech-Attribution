@@ -1,10 +1,7 @@
 # Signal Processing Cup 2022
 
 ## Team Members:
-- Kartikeya Vallamkonda
 - Rohan Rao H J
-- Shreyas Rao
-- P. Ramyashri
 - Shobuj Paul
 
 ## Dataset:
